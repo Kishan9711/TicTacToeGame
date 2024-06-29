@@ -14,10 +14,7 @@ import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Deepak
- */
+
 public class GamePanel implements ActionListener
 {
     JFrame jf;

@@ -10,10 +10,7 @@ import java.awt.Font;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 
-/**
- *
- * @author Deepak
- */
+
 public class WhoWinSeries
 {
     WhoWinSeries(String message)

@@ -13,10 +13,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JTextField;
 
-/**
- *
- * @author Deepak
- */
+
 public class UserPanel implements ActionListener
 {
     JFrame jf;
